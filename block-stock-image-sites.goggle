@@ -1,0 +1,11 @@
+! name: Block Stock Image Sites
+! description: Blocks stock photo sites and boosts independent blogs
+! public: true
+! author: Mystikan
+
+! Block major stock photo sites
+$discard,site=shutterstock.com
+$discard,site=gettyimages.com
+$discard,site=gettyimages.com.au
+$discard,site=istockphoto.com
+$discard,site=alamy.com
